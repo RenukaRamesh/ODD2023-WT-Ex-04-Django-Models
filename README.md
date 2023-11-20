@@ -61,5 +61,6 @@ And  in the user_profile template page you can see the profile page of the user.
 
 # Output
 
-![Alt text](image-1.png)
-![Alt text](IMAGE.jpg)
+![image](https://github.com/RenukaRamesh/ODD2023-WT-Ex-04-Django-Models/assets/145742979/bf523ab8-6047-4dea-b24c-fabcaf625a16)
+![image](https://github.com/RenukaRamesh/ODD2023-WT-Ex-04-Django-Models/assets/145742979/a744e5eb-6594-4397-875d-5db561f3c9f6)
+
